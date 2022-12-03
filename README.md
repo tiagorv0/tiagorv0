@@ -1,15 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=tiagorv0&color=006bed)
 
-<h3> Sobre mim </h3>
+<h3> Sobre mim / About Me</h3>
 
-- 🤔 &nbsp; Expandindo mais meus conhecimentos no ecossistema .NET, tenho como objetivo ser especialista em back-end .NET
+- 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser especialista em back-end .NET
 - 🎓 &nbsp; Bacharel em Administração** pela Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Técnico em Informática** pela Instituto Federal do Paraná - IFPR.
 - 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, MVC, Web Api, Angular, MSSQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- 🤔 &nbsp; Expanding my knowledge in .NET platform, my goal is be Back-End .NET specialist  back-end .NET
+- 🎓 &nbsp; Bachelor's Degree in Administration** from Universidade Paranaense - UNIPAR.
+- 🎓 &nbsp; Computer Technician** from Instituto Federal do Paraná - IFPR.
+- 🌱 &nbsp; Learning more about **C#, ASP.NET, MVC, Web Api, Angular, MSSQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
 
-**Tecnologias**
+<h3> :rocket: &nbsp;Minhas Habilidades / My Skills </h3>
+
+**Tecnologias** / **Tecnologies** 
 
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=white)
@@ -22,7 +27,7 @@
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilidades** / **Utilities** 
 
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -32,14 +37,15 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**Ferramentas de Desenvolvimento** / **Development Tools** 
+
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=52005F)
 
 <br/>
 
-## **GitHub Estatísticas**
+## **GitHub Estatísticas** / **GitHub Statistics**
 
 <a href="https://github.com/tiagorv0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorv0&theme=tokyonight&hide_langs_below=1" />
@@ -54,6 +60,6 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Onde me encontrar / Where find me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-TiagoVazzoller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-vazzoller/)](https://www.linkedin.com/in/tiago-vazzoller/)
