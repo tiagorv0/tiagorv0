@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Bacharel em Administração** pela Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Técnico em Informática** pela Instituto Federal do Paraná - IFPR.
 - 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, MVC, Web Api, Angular, MSSQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
-
+-------------------------------------------------------------------------------------------------------------------
 - 🤔 &nbsp; Expanding my knowledge in .NET platform, my goal is be Back-End .NET specialist  back-end .NET
 - 🎓 &nbsp; Bachelor's Degree in Administration** from Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Computer Technician** from Instituto Federal do Paraná - IFPR.
