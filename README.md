@@ -2,7 +2,7 @@
 
 <h3> Sobre mim / About Me</h3>
 
-- 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser especialista em back-end .NET
+- 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser um grande Desenvolvedor agregando valor a empresa em que trabalhar assim como os clientes da mesma.
 - 🎓 &nbsp; Bacharel em Administração** pela Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Técnico em Informática** pela Instituto Federal do Paraná - IFPR.
 - 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, MVC, Web Api, Angular, MSSQL, NoSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
