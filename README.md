@@ -2,13 +2,13 @@
 
 <h3> Sobre mim / About Me</h3>
 
-- 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser um grande Desenvolvedor agregando valor a empresa em que trabalhar assim como os clientes da mesma.
+- 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser um especialista em .Net e junto com meus conhecimentos de Administração de Empresas, agregar valor ao clientes e as empresas.
 - 🎓 &nbsp; Pós Graduação em Arquitetura de Sistemas em .Net + Azure - FIAP.
 - 🎓 &nbsp; Bacharel em Administração** pela Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Técnico em Informática** pela Instituto Federal do Paraná - IFPR.
 - 🌱 &nbsp; Estou estudando mais sobre **RabbitMQ, Docker, CQRS, Dapper, MongoDB, Postgre e Microsoft Azure**.
 -------------------------------------------------------------------------------------------------------------------
-- 🤔 &nbsp; Expanding my knowledge in .NET platform, my goal is be Back-End .NET specialist  back-end .NET
+- 🤔 &nbsp; Expanding my knowledge in .NET platform, my goal is to be Back-End .NET specialist and, together with my knowledge of Business Administration, add value to clients and companies.
 - 🎓 &nbsp; Postgraduate in Systems Architecture in .Net + Azure - FIAP.
 - 🎓 &nbsp; Bachelor's Degree in Administration** from Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Computer Technician** from Instituto Federal do Paraná - IFPR.
