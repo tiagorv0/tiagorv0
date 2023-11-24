@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=tiagorv0&color=006bed)
-
 <h3> Sobre mim / About Me</h3>
 
 - 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser um especialista em .Net e junto com meus conhecimentos de Administração de Empresas, agregar valor ao clientes e as empresas.
