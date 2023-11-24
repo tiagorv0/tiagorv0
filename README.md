@@ -3,14 +3,16 @@
 <h3> Sobre mim / About Me</h3>
 
 - 🤔 &nbsp; Expandindo mais meus conhecimentos na plataforma .NET, tenho como objetivo ser um grande Desenvolvedor agregando valor a empresa em que trabalhar assim como os clientes da mesma.
+- 🎓 &nbsp; Pós Graduação em Arquitetura de Sistemas em .Net + Azure - FIAP.
 - 🎓 &nbsp; Bacharel em Administração** pela Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Técnico em Informática** pela Instituto Federal do Paraná - IFPR.
-- 🌱 &nbsp; Aprendendo mais sobre **C#, ASP.NET, MVC, Web Api, Angular, MSSQL, MySQL, PostgreSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
+- 🌱 &nbsp; Estou estudando mais sobre **RabbitMQ, Docker, CQRS, Dapper, MongoDB, Postgre e Microsoft Azure**.
 -------------------------------------------------------------------------------------------------------------------
 - 🤔 &nbsp; Expanding my knowledge in .NET platform, my goal is be Back-End .NET specialist  back-end .NET
+- 🎓 &nbsp; Postgraduate in Systems Architecture in .Net + Azure - FIAP.
 - 🎓 &nbsp; Bachelor's Degree in Administration** from Universidade Paranaense - UNIPAR.
 - 🎓 &nbsp; Computer Technician** from Instituto Federal do Paraná - IFPR.
-- 🌱 &nbsp; Learning more about **C#, ASP.NET, MVC, Web Api, Angular, MSSQL, MySQL, PostgreSQL, Design Patterns, Clean Archtecture, Clean Code e Microsoft Azure**.
+- 🌱 &nbsp; I'm studying more about **RabbitMQ, Docker, CQRS, Dapper, MongoDB, Postgre e Microsoft Azure**.
 
 <h3> :rocket: &nbsp;Minhas Habilidades / My Skills </h3>
 
@@ -23,19 +25,27 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&Color=white)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+
+**Banco de Dados** / **Databases**
+
   ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 **Utilidades** / **Utilities** 
 
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-333333?style=flat&logo=azuredevops)
 
 **Ferramentas de Desenvolvimento** / **Development Tools** 
 
